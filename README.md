@@ -13,6 +13,7 @@ A list of awesome researchers and papers about data processing units.
 - [Zeke Wang](https://wangzeke.github.io/)
 - [Xingda Wei](http://xmm4ok69.com/)
 - [Qizhen Zhang](https://qizhenzhang.me/)
+- [Xin Jin](https://xinjin.github.io/index.html)
 - [Carsten Binnig](https://www.informatik.tu-darmstadt.de/systems/systems_tuda/group/team_detail_18624.en.jsp)
 - [Dhabaleswar Panda](https://cse.osu.edu/people/panda.2)
 - [Animesh Trivedi](https://animeshtrivedi.github.io/research/)
